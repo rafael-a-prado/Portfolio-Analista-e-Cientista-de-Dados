@@ -1,0 +1,22 @@
+Variável;Descrição;Tipo de Variável;Binária
+ID;Matrícula do funcionário;Qualitativa nominal;não
+Funcionário_deixou_a_empresa;Marcação sem funcionário deixou a empresa recentemente;Qualitativa nominal;Sim
+Idade;Idade do funcionário;Quantitativa discreta;não
+Frequência de Viagens;Frequência de viagens a trabalho do funcionário;Qualitativa ordinal;não
+Distância_do_trabalho;Distância em Km até o trabalho;Quantitativa discreta;não
+Formação;Nível de formação;Qualitativa ordinal;não
+E-Sat;Satisfação com o clima organizacional;Qualitativa ordinal;não
+Gênero;Gênero do funcionário;Qualitativa nominal;não
+Estado_Civil;Estado civil do funcionário;Qualitativa ordinal;não
+Salário;Salário mensal;Quantitativa discreta;não
+Qte_Empresas_Trabalhadas;Quantidade de empresas que o funcionário já trabalhou;Quantitativa discreta;não
+Faz_hora_extras?;Se funcionário costuma fazer hora extra;Qualitativa nominal;sim
+Perc_de_aumento;Percentual de aumento de salário de 2018 a 2019;Quantitativa discreta;não
+Qte_ações_da_empresa;Qte de lotes de ações da empresa que o funcionário possui;Quantitativa discreta;não
+Tempo_de_carreira;Tempo em anos que o funcionário tem de carreira;Quantitativa discreta;não
+Horas_de_treinamento;Qte de horas de treinamento que o funcionário teve no ano passado;Quantitativa discreta;não
+Equilibrio_de_Vida;Nota que o funcionário deu para seu equilibrio entre vida pessoal e profissional;Qualitativa ordinal;não
+Tempo_de_empresa;Tempo em anos que o funcionário trabalha na empresa;Quantitativa discreta;não
+Anos_no_mesmo_cargo;Qte de tempo em anos que o funcionário atua no mesmo cargo;Quantitativa discreta;não
+Anos_desde_a_ultima_promocao;Qte de tempo em anos que o funcionário teve a última promoção;Quantitativa discreta;não
+Anos_com_o_mesmo_chefe;Qte de tempo em anos que o funcionário responde para o mesmo chefe;Quantitativa discreta;não
